@@ -4,4 +4,5 @@
 - 找到**persist.camera.HAL3.enabled=0**并将0改成1
 - **重启手机**
 - 安装一个第三方相机
+- ~~给个star吧~~
 
