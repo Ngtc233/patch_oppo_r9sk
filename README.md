@@ -4,5 +4,13 @@
 - 找到`persist.camera.HAL3.enabled=0`并将`0`改成`1`
 - **重启手机**
 - 安装一个第三方相机
-- ~~我也不知道为什么有的人WiFi用不了~~
+
+
+ ## How to Fix Camera Issue for LineageOS 15.1
+- Grant Root Permission
+- Open `/system/build.prop`
+- Locate the line `persist.camera.HAL3.enabled=0` and change the value from `0` to `1`
+- **Reboot**
+- Install a third-party camera app (e.g.,Google Camera)
+
 
